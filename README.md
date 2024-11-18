@@ -11,7 +11,7 @@
   <a href="https://discordapp.com/users/heeyyyprince" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="www.instagram.com/heeyyyprince/profilecard/?igsh=ZGlvbmcxdm9tN29s" target="_blank">
+  <a href="www.instagram.com/heeyyyprince/profilecard" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  
   </a>
   <a href="https://x.com/heeyyyprince?t=aOb7j5Predl3lo2pxUtaTA&s=09">  
