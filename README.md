@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/heeyyyprince/" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://media.licdn.com/dms/image/v2/D5603AQFs2VOzDKTxcg/profile-displayphoto-scale_400_400/B56ZiLA7MKH0As-/0/1754678937641?e=1761782400&v=beta&t=8Ig1vOqnE54oekIH4ru5lnwYP5lS6laH6nGU_NP5pyc)" height="25" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discordapp.com/users/heeyyyprince" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
