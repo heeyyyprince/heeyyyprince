@@ -166,6 +166,5 @@ rtt min/avg/max = 0.1/0.1/0.1 ms
 
 *India 🇮🇳 · Chitkara University · Full Stack Developer*
 
-*Thanks for stopping by — now go build something.* 🚀
 
 </div>
