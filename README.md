@@ -1,63 +1,71 @@
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h3 align="center">Full Stack Developer | MERN | iOS | Cloud</h3>
+
 <div align="center">
-  <img height="150" src="https://drive.google.com/uc?export=view&id=1aSmMx866Ez2XKuztoR7Hkma9irY9dGcO" />
+  <img height="230" src="https://drive.google.com/uc?export=view&id=1aSmMx866Ez2XKuztoR7Hkma9irY9dGcO" />
 </div>
 
-###
+<br/>
+
+<div align="center">
+
+<a href="https://www.chitkara.edu.in/" target="_blank">
+  <img src="https://img.shields.io/badge/🎓%20Chitkara%20University-000000?style=for-the-badge" />
+</a>
+
+<a href="https://portfolio-386p.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0A66C2?style=for-the-badge" />
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/heeyyyprince/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" height="25" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32"/>
   </a>
   <a href="https://discordapp.com/users/heeyyyprince" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=discord" height="32"/>
   </a>
-  <a href="https://www.instagram.com/heeyyyprince/profilecard/?igsh=ZGlvbmcxdm9tN29s" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  
+  <a href="https://www.instagram.com/heeyyyprince/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="32"/>
   </a>
-  <a href="https://x.com/heeyyyprince?t=aOb7j5Predl3lo2pxUtaTA&s=09">  
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a> 
-  <a href="https://www.facebook.com/profile.php?id=100065180452045&mibextid=ZbWKwL">   
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a> 
+  <a href="https://x.com/heeyyyprince" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="32"/>
+  </a>
 </div>
 
-###
+---
 
-<!-- <h1 align="center">💙राधे-राधे❤️</h1> -->
+### 🚀 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,aws,firebase,vercel,swift,cpp,java" />
+</p>
 
-###
+---
 
-<h3 align="left">🧑🏻‍💻 About Me</h3>
+### ⚡ About
+<p align="center">
+  Building scalable full-stack applications and modern mobile apps.<br/>
+  Focused on MERN, iOS, and cloud deployment.<br/>
+  Passionate about clean code and real-world impact.
+</p>
 
-###
+---
 
-<p align="left">👋 Hi, I'm Prince Kumar!  <br>💻 Computer Science Student  <br>🌐 Web Developer and iOS App Developer  <br>📚 Currently learning Java and honing development skills  <br>🌟 Aspiring to create impactful web and mobile applications</p>
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heeyyyprince&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=heeyyyprince&theme=tokyonight&hide_border=true&background=00000000" height="150"/>
+</p>
 
-###
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heeyyyprince&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+</p>
 
-<h3 align="left">Skills</h3>
+---
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
-  <img width="12" /> -->
-  <img src="https://cdn.simpleicons.org/swift/F05138" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-</div>
+<p align="center">
+  ⚡ Building • Learning • Improving
+</p>
