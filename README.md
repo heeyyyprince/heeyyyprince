@@ -33,9 +33,8 @@
 name:        Prince Kumar
 role:        Full Stack Developer
 university:  Chitkara University
-location:    Punjab, India 🇮🇳
+location:    India 🇮🇳
 stack:       MERN · iOS · Cloud · AI
-status:      open: true  # hire me!
 motto:       "Build fast. Keep it simple."
 ```
 
